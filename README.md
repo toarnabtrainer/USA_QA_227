@@ -12,6 +12,12 @@ https://www.youtube.com/watch?v=UTqOXwAi1pE
 **How to uninstall Anaconda completely from Windows 10:**<br>
 https://www.youtube.com/watch?v=OUkHXMwu-JY
 
+**To Do List before the next class:**<br>
+1. Login from your System not from your Mobile phone
+2. Make Chrome as your default browser
+3. Keep the chrome updated and note the version of the chrome
+4. Download and install Anaconda and test it whether it can run Python programs or not
+
 **Online Python Editors:**<br>
 https://onecompiler.com/<br>
 https://www.onlinegdb.com/
