@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=OUkHXMwu-JY
 https://onecompiler.com/<br>
 https://www.onlinegdb.com/
 
-**Python Study Material Links:**<br>
+**Python Study Material Links:** <br>
 **Python for you and me:** https://pymbook.readthedocs.io/en/latest/<br>
 **Python Practice Book:** https://anandology.com/python-practice-book/index.html<br>
 **Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
